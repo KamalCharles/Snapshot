@@ -1,0 +1,2 @@
+pip-tools
+oasislmf==1.23.0
